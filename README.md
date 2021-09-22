@@ -1,4 +1,4 @@
-# missingmaps-imagery
+# missingmaps-imagery-external
 
 Temporary TMS for Missing Maps projects
 
